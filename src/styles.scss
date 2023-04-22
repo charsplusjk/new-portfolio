@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+  background-color: #333333;
+  color: #ffffff;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif
+}
+
+body {
+  max-width: 640px;
+  margin: auto;
+}
