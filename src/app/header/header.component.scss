@@ -5,10 +5,11 @@
 h1:before {
   content: "> ";
   opacity: 1;
+  margin-top: -5px;
 }
 
 h1:after {
-  content: " ∎";
+  content: " l";
   opacity: 1;
   animation: cursor 1s infinite;
 }
