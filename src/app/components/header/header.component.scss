@@ -1,6 +1,4 @@
-.subheader {
-  display: flex;
-}
+
 
 h1:before {
   content: "λ ";
@@ -47,11 +45,6 @@ h1:after {
   border-radius: 50%;
   border: solid 1px #fff;
   margin-right: 20px;
-}
-
-.social {
-  list-style: none;
-  display: flex;
 }
 
 .social li {
